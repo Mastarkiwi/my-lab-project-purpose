@@ -1,0 +1,2 @@
+In this project , i will create a page that has 3 main sections which are called "PS5" , "Nintendo Switch" ,and "XBOX series X".
+This will take a form of a commercial website and i will use HTMl , CSS and Javascript to build this page .
